@@ -79,21 +79,7 @@
 </table>
 
 ## GitHub Progress
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Sanjeev22A">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeev22A&layout=compact&hide_title=true&hide_border=true&theme=dark" alt="Top Languages">
-      </a>
-    </td>
-    <td colspan="2">
-      <a href="https://github.com/Sanjeev22A">
-        <img src="https://github-readme-stats.vercel.app/api?username=Sanjeev22A&show_icons=true&hide_title=true&hide_border=true&theme=dark" alt="GitHub Stats">
-      </a>
-    </td>
-  </tr>
-</table>
-
+[![Sanjeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjeev22A)](https://github.com/Sanjeev22A/github-readme-stats)
 
 
 
