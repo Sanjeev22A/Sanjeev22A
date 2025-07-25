@@ -1,14 +1,15 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Sanjeev22A&style=flat-square&color=brightgreen)
-👋 Hey there! I'm Sanjeev A. ⚡
-🌱 I’m an avid programmer from India with a passion for problem-solving, logic, and mathematics.
+👋 Hey there! I'm **Sanjeev A.** ⚡  
+🌱 I’m an avid programmer from India with a passion for problem-solving, logic, and mathematics.  
 
-🌐 Fascinated by networks — I’ve worked on Beyond-5G and O-RAN technologies.
+🌐 Fascinated by networks — I’ve worked on **Beyond-5G** and **O-RAN** technologies.  
 
-🐧 Deeply interested in Linux systems and always diving deeper into kernel-level development.
+🐧 Deeply interested in **Linux systems** and always diving deeper into kernel-level development.  
 
-🎯 Constantly learning, experimenting, and exploring the internals of how things work.
+🎯 Constantly learning, experimenting, and exploring the internals of how things work.  
 
-😎 Fun fact: I actually built a keylogger just to understand system-level input handling!
+😎 *Fun fact:* I actually built a **keylogger** just to understand system-level input handling!
+
 
 ## Connect with Me                                                                                                                                               
 📞 **Phone Number**: 9444452444
