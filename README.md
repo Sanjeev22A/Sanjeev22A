@@ -82,13 +82,13 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/themysterysolver">
+      <a href="https://github.com/Sanjeev22A">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeev22A&layout=compact&hide_title=true&hide_border=true&theme=dark" alt="Top Languages">
       </a>
     </td>
     <td colspan="2">
-      <a href="https://github.com/themysterysolver">
-        <img src="https://camo.githubusercontent.com/72bdf65e4ff877355f2c56379bf4318b2cfeaa9bb506021bf7ae3172e4aaeb81/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d7468656d797374657279736f6c76657226" alt="GitHub Stats">
+      <a href="https://github.com/Sanjeev22A">
+        <img src="https://github-readme-stats.vercel.app/api?username=Sanjeev22A&show_icons=true&hide_title=true&hide_border=true&theme=dark" alt="GitHub Stats">
       </a>
     </td>
   </tr>
