@@ -10,6 +10,54 @@
 
 😎 *Fun fact:* I actually built a **keylogger** just to understand system-level input handling!
 
+---
+
+## 🧠 About My Projects
+
+### 📡 INDRA-5G: Intelligent RAN Management for Beyond-5G Networks
+
+> **INDRA-5G** is a modular framework designed to optimize PRB allocation and classify traffic in a simulated B5G O-RAN setup.
+
+**Core Components:**
+
+- 🔍 **Traffic Classification Module** – Classifies eMBB, URLLC, mMTC using SVM, CNN, Transformer, and CapsNet models.
+- 🧠 **Resource Allocation Module** – Allocates PRBs using:
+  - Static rule-based logic
+  - Genetic Algorithm
+  - Random Forest
+  - Deep Q-Network (DQN)
+- 📊 **KPI Collection & Preprocessing** – Extracts real-time KPIs from Open5GS, srsRAN, and srsUE setups.
+- 🎮 **Simulation** – Containerized and automated via Docker + Kubernetes for scalable emulation of 5G networks.
+
+🔗 Repo: [CIP-INDRA5G](https://github.com/Sanjeev22A/CIP-INDRA5G)
+
+---
+### 🧠 BRIDGE: Brain-Rooted Intelligence for Dynamic Graph Extraction
+> A knowledge-based search assistant that leverages Graph Theory + LLMs for structured query resolution.
+
+**Core Features:**
+- 🧾 Extracts key phrases, builds dynamic dependency graphs
+- 🤖 Uses OpenAI embeddings + vector stores to answer contextually rich queries
+- 🔄 Retrieves citations, sources, and builds final documents using GPT agents
+- ⚙️ CLI + Web-ready modular design for integration with any research corpus
+
+🔗 [BRIDGE Repository](https://github.com/Sanjeev22A/BRIDGE)
+
+---
+
+### 🔍 TrieTrack: Real-Time Email Intelligence Tracker
+> A Trie-based agentic email automation pipeline with smart intent classification and dynamic action planning.
+
+**Key Features:**
+- 📧 Reads, parses, and classifies emails into categories (Business, Ads, Study, Spam, etc.)
+- 🧠 Uses Trie + Rule Trees for command prediction and decision routing
+- 🔁 Dynamically chooses the best agent action (e.g., reply, delete, archive, follow-up)
+- 🔒 Designed with modularity and privacy-respecting logic
+
+🔗 [TrieTrack Repository](https://github.com/Sanjeev22A/TrieTrack)
+
+---
+
 
 ## Connect with Me                                                                                                                                               
 📞 **Phone Number**: 9444452444
