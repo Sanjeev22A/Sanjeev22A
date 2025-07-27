@@ -80,7 +80,7 @@
 - 🔄 Retrieves citations, sources, and builds final documents using GPT agents
 - ⚙️ CLI + Web-ready modular design for integration with any research corpus
 
-🔗 [BRIDGE Repository](https://github.com/Sanjeev22A/BRIDGE)
+🔗 [BRIDGE Repository](https://github.com/chanikkyasaai/bridge-main)
 
 ---
 
@@ -93,7 +93,7 @@
 - 🔁 Dynamically chooses the best agent action (e.g., reply, delete, archive, follow-up)
 - 🔒 Designed with modularity and privacy-respecting logic
 
-🔗 [TrieTrack Repository](https://github.com/chanikkyasaai/bridge-main.git)
+🔗 [TrieTrack Repository](https://github.com/Sanjeev22A/TrieTrack)
 
 ---
 
