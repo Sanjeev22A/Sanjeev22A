@@ -93,7 +93,7 @@
 - 🔁 Dynamically chooses the best agent action (e.g., reply, delete, archive, follow-up)
 - 🔒 Designed with modularity and privacy-respecting logic
 
-🔗 [TrieTrack Repository](https://github.com/Sanjeev22A/TrieTrack)
+🔗 [TrieTrack Repository](https://github.com/chanikkyasaai/bridge-main.git)
 
 ---
 
